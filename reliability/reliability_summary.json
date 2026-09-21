@@ -1,0 +1,46 @@
+{
+  "processed": "D:\\BI\\DRP\\new_data\\processed",
+  "n_rows": 492534,
+  "n_pairs": 422268,
+  "curve_join_missing": 0,
+  "q_agree_coverage": 0.0648,
+  "q_repeat_coverage": 0.203,
+  "std_scale": 0.2,
+  "weights": {
+    "q_fit": 0.4,
+    "q_repeat": 0.3,
+    "q_agree": 0.3
+  },
+  "tier_counts": {
+    "mid": 164178,
+    "low": 164178,
+    "high": 164178
+  },
+  "tier_by_dataset": {
+    "CTRPv2": {
+      "high": 132898,
+      "mid": 111326,
+      "low": 105796
+    },
+    "GDSCv2": {
+      "low": 58382,
+      "mid": 52852,
+      "high": 31280
+    }
+  },
+  "w_describe": {
+    "count": 492534.0,
+    "mean": 0.837245,
+    "std": 0.16722,
+    "min": 0.057143,
+    "25%": 0.8,
+    "50%": 0.9,
+    "75%": 0.934138,
+    "max": 1.0
+  },
+  "component_means": {
+    "q_fit": 0.84953,
+    "q_repeat": 0.747971,
+    "q_agree": 0.592978
+  }
+}

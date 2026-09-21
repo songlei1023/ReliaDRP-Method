@@ -1,0 +1,25 @@
+# ---- 数据根：20.65 GB / 3021 文件，本地运行用，不入库 ----
+data/
+
+# ---- 数据打包（Zenodo 上传用），可达 20 GB ----
+data.zip
+*.zip
+
+# ---- 大体积中间产物，可由脚本重新生成 ----
+#   dose_qc.csv              <- build_dose_qc.py  (data/_dose_profiles + data/processed)
+#   response_reliability.csv <- reliability.py    (data/processed)
+reliability/dose_qc.csv
+reliability/response_reliability.csv
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# ---- 编辑器 / 系统 ----
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini

@@ -13,8 +13,6 @@ Code and data repository for:
 |---|---|
 | Paper (PDF) | [`ReliaDRP_ICASSP2027.pdf`](ReliaDRP_ICASSP2027.pdf) |
 | Figure 1 | [`ReliaDRP_figure.pdf`](ReliaDRP_figure.pdf) · [`ReliaDRP_figure.png`](ReliaDRP_figure.png) |
-| Benchmark data + features (20.6 GB) | **Zenodo: `10.5281/zenodo.XXXXXXX`** ← TODO: insert DOI before release |
-| Model checkpoints / prediction dumps | **Zenodo: `10.5281/zenodo.XXXXXXX`** ← same record |
 
 ## What this repository contains
 

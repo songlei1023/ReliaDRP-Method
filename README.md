@@ -49,7 +49,7 @@ ReliaDRP-Method/
 
 ## Data
 
-`data/` is **not** tracked in git (20.65 GB). Download the archive from Zenodo (`10.5281/zenodo.XXXXXXX`), unpack it, and place it so that the tree resolves as:
+`data/` is **not** tracked in git (20.65 GB). Download the archive from geogle drive (`(https://drive.google.com/drive/folders/1ldUrNQ_OGDoGT_v5cpLlx-cimFfpUpnL?usp=drive_link)`), unpack it, and place it so that the tree resolves as:
 
 ```
 data/
